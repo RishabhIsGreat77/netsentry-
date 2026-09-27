@@ -1,1 +1,5 @@
-
+{
+    "timeout": 0.5,
+    "ports": [80, 443, 22, 53],
+    "output_directory": "reports"
+}
